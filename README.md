@@ -1,7 +1,7 @@
-- 👋 Hola soy Fernando Borrego de Naucalpan, México @jediborre
-- 👀 Soy Programador Front y Back, también configuro Servers aunque me falta mucho de la parte de Devops.
-- 🌱 Busco aprender NPL Machine Learning y Deep Learning, Balanceo de Carga de Servers.
-- 📫 si quieres contactarme lo ppdrás hacer en fernando.borrego@gmail.com
+- 👋 Soy Fernando Borrego V., 36 años de Naucalpan, México.
+- 👀 Soy Lic. en Ciencias de la Informática, programador en varios lenguajes con 15 años de Experiencia en Front End, Back End, Apps para Android y analisis de datos.
+
+- 📫 Si quieres contactarme lo puedes escribir a fernando.borrego@gmail.com
 
 <!---
 jediborre/jediborre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
